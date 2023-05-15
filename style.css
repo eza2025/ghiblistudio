@@ -1,0 +1,486 @@
+.red {
+
+	background: transparent;
+	width: 1310px;
+	height:930px;
+	display: flex;
+}
+
+.menu {
+
+	background: #F2F2F2;
+	height: 1230px;
+	width: 200px;
+}
+
+.main {
+
+	background: #E6E6E6;
+	height: 1230px;
+	width: 1330px;
+}
+
+.header {
+
+	background: transparent;
+	width: 1330px;
+	height: 330px;
+}
+
+.base {
+
+	background: #E6E6E6;
+	height: 1010px;
+	width: 1330px;
+}
+
+.box1{
+
+	background: #E6E6E6;
+	width:1330px;
+	height: 380px;
+}
+
+.menu1 {
+
+	background: #F2F2F2;
+	height: 60px;
+	width: 200px;
+}
+
+.menu2 {
+
+	background: transparent;
+	height: 108px;
+	width: 200px;
+	margin-top: 15px;
+}
+
+.menu3 {
+
+	background: transparent;
+	height: 205px;
+	width: 200px;
+	margin-top: 15px;
+}
+
+.menu4 {
+
+	background: transparent;
+	height: 135px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.menu5 {
+
+	background: transparent;
+	height: 180px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.compilation {
+
+	background: blue;
+	height: 50px;
+	width: 1330px;
+}
+
+.founders {
+
+	background: grey;
+	height: 350px;
+	width: 1245px;
+	margin-top: 30px;
+	margin-left: 35px;
+}
+
+.films {
+
+	background: grey;
+	height: 350px;
+	width: 1245px;
+	margin-top: 50px;
+	margin-left: 35px;
+}
+
+.box_home {
+
+	background: transparent;
+	width: 200px;
+	height: 30px;
+	display: flex;
+}
+
+.m-top {
+
+	margin-top: 9px;
+}
+
+.m-top1 {
+
+	margin-top: 5px;
+}
+
+.text_menu {
+
+	font-family: Arial;
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 10px;
+	padding-top: 12px;
+}
+
+.home_img {
+
+	height: 20px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 5px;
+	opacity: 0.6;
+}
+
+.home_text {
+    
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: bold;
+   margin-left: 5px;
+   margin-top: 9.5px;
+   
+}
+
+.menu3_text {
+
+	font-family: Arial;
+	font-size:13px;
+	font-weight: lighter;
+	opacity: 0.6;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+.box_1_img  {
+
+	height: 500px;
+	width: 1330px;
+	border-radius: 40px;
+}
+
+.title {
+
+	
+	background-color:transparent;
+	height: 70px; 
+	width: 1330px; 
+	margin-top:8px;
+	position:absolute; 
+	top: 0;
+	border-radius: 20px;
+	display: flex;
+}
+
+
+.gradient-bac {
+
+	background: linear-gradient(175deg, #1E1E1E, transparent); 
+    opacity: .8;
+	height: 500px;
+	width:1330px;
+	position:absolute;
+	top: 0;
+    margin-top: 9px;
+	border-radius: 40px;
+}
+
+
+.body {
+  background-color: white;
+}
+
+.form {
+  width:50px;
+  margin:auto;
+  margin-top: 250px;
+
+}
+
+.search {
+  width: 250px;
+  height: 40px;
+  background-color: white;
+  opacity: .3;
+  margin-top: 19px;
+  margin-left: 30px;
+  border-radius: 25px;
+  border-width: solid;
+  border: none;
+  padding-left: 15px;
+
+}
+
+.form1 {
+  position: relative;
+  width: 200px;
+  margin: 0 auto;
+}
+
+
+.input {
+  width: 240px;
+  height: 42px;
+  background: white;
+  padding-left: 15px;
+  
+
+}
+
+.button {
+  height: 26px;
+  width: 26px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: black;
+  cursor: pointer;
+}
+
+.notice {
+
+	width: 47px;
+	height: 47px;
+	background: transparent;
+	margin-left: 930px;
+	margin-top: 15px;
+}
+
+.notice2 {
+
+	width: 47px;
+	height: 47px;
+	background: transparent;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+.din_img {
+
+	height: 24px;
+	width: 24px;
+	margin-left: 9px;
+	margin-top: 11px;
+	box-shadow: 
+
+}
+
+.howl_img {
+
+	height: 47px;
+	width: 47px ;
+	border-radius: 30px;
+	box-shadow: 0 0 5px 1px;;
+}
+
+.logo {
+
+	background: transparent;
+	height: 200px;
+	width: 400px;
+	margin-top: 80px;
+	margin-left: -1273px;
+}
+
+.ghibli_studio {
+
+	color: white;
+	font-size: 50px;
+	font-family: Arial;
+}
+
+.japan_text {
+
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+	margin-top:-40px;
+	margin-left: 3px;
+}
+
+.button_read {
+
+	height: 35px;
+	width: 120px;
+	border-radius: 20px;
+	font-family: Arial;
+	font-weight: bold;
+	border: none;
+
+}
+
+.more {
+
+	background: #F8F8F8;
+	height: 900px;
+	width: 1330px;
+	margin-top: 330px;
+	margin-left: -431px;
+	border-radius: 40px;
+	box-shadow: -15px -1px 10px -7px rgba(0,0,0,.2);
+}
+.caption {
+
+	background: #F8F8F8;
+	height: 70px;
+	width: 1330px;
+	border-radius: 40px;
+	display: flex;
+}
+
+.text_href {
+
+	font-family: Arial;
+	font-size: 19px;
+	margin-left: 49px;
+	margin-top: 24px;
+	font-weight: bold;
+	color: black;
+	stroke: ;
+}
+
+.founders_box {
+
+	background: white;
+	height: 340px;
+	width: 1200px;
+	margin-left: 60px;
+	margin-top: 50px;
+	border-radius: 20px ;
+	box-shadow: 15px 15px 5px -5px rgba(0,0,0,.2);
+	
+
+}
+
+.film_box {
+
+	background:;
+	height: 340px;
+	width: 1200px;
+	margin-left: 60px;
+	margin-top: 30px;
+	border-radius: 20px;
+	box-shadow: 15px 15px 5px -5px rgba(0,0,0,.2);
+}
+
+.header_founders {
+
+	background: transparent;
+	height: 50px;
+	width: 1200px;
+	border-radius: 20px;
+}
+
+.header_film{
+
+	background: yellow;
+	height: 50px;
+	width: 1200px;
+	border-radius: 20px;
+}
+
+.avtor {
+
+	background: transparent;
+	height: 110px;
+	width: 1100px;
+	margin-top: 23px;
+	margin-left: 50px;
+	display: flex;
+	border-radius: 15px;
+	box-shadow: 15px 15px 5px -5px rgba(0,0,0,.2);
+}
+
+.photo {
+
+	height: 110px;
+	width: 100px;
+	background: white;
+}
+
+.biographi {
+
+	height: 110px;
+	width: 1000px;
+	background: transparent;
+
+}
+
+.hayao_miyazaki_img {
+
+	height: 110px;
+	width: 100px;
+	border-radius: 15px;
+}
+
+.biographi_text {
+
+	font-size: 19px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 25px;
+
+}
+
+.biographi_text2 {
+
+	font-family: Arial;
+	font-size: 14px;
+	color:gray ;
+	font-weight: bold;
+	margin-left: 18px;
+	margin-top: 5;
+}
+
+.h_f_text {
+
+	font-size: 19px;
+	font-family: Arial;
+	margin-left: 20px;
+	padding-top: 14px;
+}
+
+.poster_box {
+
+	height: 240px;
+	width: 1150px;
+	background: transparent;
+	margin-left: 25px;
+	display: flex;
+	margin-top: 15;
+}
+
+.p_box {
+
+   height: 240px;
+   width: 179px;
+   background: white;
+   border-radius: 15px;
+}
+
+.p_box2 {
+
+   height: 240px;
+   width: 179px;
+   margin-top:;
+   background: white;
+   margin-left: 15.5px;
+   border-radius: 15px;
+}
+
+.film_img_b {
+
+	height: 240px;
+   width: 179px;
+   border-radius: 15px;
+}
